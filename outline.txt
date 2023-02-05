@@ -1,3 +1,6 @@
 Chapter : 1 
 hello world 
 - we meet Nick, Tom, Daisy and other people 
+* hello 
+another topic for this moring that i will be reading 
+from the internet 
