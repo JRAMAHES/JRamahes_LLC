@@ -1,0 +1,3 @@
+removing the extra data from the database is not allowed in the future. 
+call me back when the database is updated. 
+thank u for the hard work. 
